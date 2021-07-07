@@ -15,13 +15,10 @@
 
  }
  
- section{
-     display: flex;
- }
+ 
  .half-width{
     width: 50%;
-    padding: 5%;
-    
+    padding: 5%;  
  }
  
  .orange-color{
@@ -44,4 +41,30 @@
          background-image: url(Frame\ 58.jpg);
          background-repeat: no-repeat;
      }
+     
+     .flex{
+         display: flex;
+     }
+     .three{
+         text-align: center;
+     }
+     
+     .shadow{
+        width: 50%;
+        margin-left: 2%;
+        margin-right: 2%;
+        padding:2%;
+        box-shadow: 10px 10px 40px gray;
+        border-radius: 50px;
+        text-align:justify;
+        position: bottom;
+
+     }
+     .shadow img{
+         width: 100%;
+         height: 50%;
+     }
+ h3{
+     font-size: 30px;   
+ }
  
