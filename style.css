@@ -65,6 +65,44 @@
          height: 50%;
      }
  h3{
-     font-size: 30px;   
+     font-size: 40px;   
+ }
+ .five{
+    
+     background-color: aliceblue;
+     text-align: center;
+     border-radius: 10px;
+     width: 80%;
+     height: 5%;
+
+     
+     
  }
  
+ .q{
+margin: 2%;
+padding: 2%;
+
+ }
+ .q p{
+     text-align: end;
+     font-size: 15px;
+ }
+ #i{
+     text-align: center;
+     color: coral;
+     font-weight: 300;
+
+ }
+ #k{
+     text-align: center;
+     color: cornsilk;
+     font-size: 15px;
+ }
+ footer{
+     background-color: black;
+     padding: 2px;
+ }
+ .gray{
+     color: darkgray;
+ }
