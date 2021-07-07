@@ -73,15 +73,22 @@
      text-align: center;
      border-radius: 10px;
      width: 80%;
-     height: 5%;
+     height: 2%;
+     margin-top:80px ;
+     margin-bottom:80px ;
+     margin-left: 140px;
+     margin-right:150px ;
 
      
      
  }
  
  .q{
-margin: 2%;
-padding: 2%;
+
+padding-top:50px ;
+padding-bottom:50px ;
+padding-left:80px ;
+padding-right:80px ;
 
  }
  .q p{
@@ -98,10 +105,11 @@ padding: 2%;
      text-align: center;
      color: cornsilk;
      font-size: 15px;
+     position: initial;
  }
  footer{
      background-color: black;
-     padding: 2px;
+     padding: 3px;
  }
  .gray{
      color: darkgray;
